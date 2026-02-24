@@ -4,3 +4,6 @@ while i<=20:
         print(i,"even")
     else:
         print(i,"odd")
+        
+i=1 
+while i
